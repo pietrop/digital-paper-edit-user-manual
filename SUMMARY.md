@@ -8,6 +8,7 @@
 
 ## Setup: Speech To Text API Keys
 
+* [Speech to text options](setup-speech-to-text-api-keys/speech-to-text.md)
 * [Setup](setup-speech-to-text-api-keys/setup.md)
 * [assemblyAi](setup-speech-to-text-api-keys/assemblyai.md)
 * [Speechmatics](setup-speech-to-text-api-keys/speechmatics.md)
