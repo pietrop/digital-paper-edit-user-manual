@@ -1,20 +1,35 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Support the project](support-the-project.md)
+* [App Release link](https://github.com/pietrop/digital-paper-edit-electron/releases)
+* [Installing](untitled/README.md)
+  * [Installing on Mac OSX](untitled/installing-on-mac-osx.md)
+  * [Installing on Linux](untitled/installing-on-linux.md)
+  * [Installing on Windows](untitled/installing-on-windows.md)
+* [Uninstalling](uninstalling.md)
+* [Initial Setup](setup.md)
+* [Speech to text options](speech-to-text/README.md)
+  * [assemblyAi](speech-to-text/assemblyai.md)
+  * [Speechmatics](speech-to-text/speechmatics.md)
+  * [Mozilla DeepSpeech](speech-to-text/mozilla-deepspeech.md)
+  * [Pocketsphinx](speech-to-text/pocketsphinx.md)
+* [Projects](projects-1.md)
+* [Transcriptions](transcriptions/README.md)
+  * [Export](transcriptions/export.md)
+* [Paperediting](paperediting/README.md)
+  * [Create a new paper edit](paperediting/create-a-new-paper-edit.md)
+  * [Export](paperediting/export.md)
+* [Opening EDL in video editing software](opening-edl-in-video-editing-software/README.md)
+  * [Adobe Premiere](opening-edl-in-video-editing-software/adobe-premiere.md)
+  * [Davinci Resolve - 15](opening-edl-in-video-editing-software/davinci-resolve-15.md)
+  * [Final cut pro X](opening-edl-in-video-editing-software/final-cut-pro-x.md)
 
-## Installing
+## Digital Paper Edit - Adobe Panel
 
-* [Installing](installing/untitled.md)
-* [Installing on Mac OSX](installing/installing-on-mac-osx.md)
-* [Installing on Linux](installing/installing-on-linux.md)
-* [Installing on Windows](installing/installing-on-windows.md)
-
-## Setup: Speech To Text API Keys
-
-* [Speech to text options](setup-speech-to-text-api-keys/speech-to-text.md)
-* [Setup](setup-speech-to-text-api-keys/setup.md)
-* [assemblyAi](setup-speech-to-text-api-keys/assemblyai.md)
-* [Speechmatics](setup-speech-to-text-api-keys/speechmatics.md)
-* [Mozilla DeepSpeech](setup-speech-to-text-api-keys/mozilla-deepspeech.md)
-* [Pocketsphinx](setup-speech-to-text-api-keys/pocketsphinx.md)
+* [Install](digital-paper-edit-adobe-panel/install.md)
+* [import media](digital-paper-edit-adobe-panel/import-media.md)
+* [Transcription to source monitor](digital-paper-edit-adobe-panel/transcription-to-source-monitor.md)
+* [Transcription export selections](digital-paper-edit-adobe-panel/transcription-export-selections.md)
+* [Paper-edit to sequence](digital-paper-edit-adobe-panel/paper-edit-to-sequence.md)
 
