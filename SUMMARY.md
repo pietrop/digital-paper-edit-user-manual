@@ -4,7 +4,10 @@
 
 ## Installing
 
-* [Untitled](installing/untitled.md)
+* [Installing](installing/untitled.md)
+* [Installing on Mac OSX](installing/installing-on-mac-osx.md)
+* [Installing on Linux](installing/installing-on-linux.md)
+* [Installing on Windows](installing/installing-on-windows.md)
 
 ## Setup: Speech To Text API Keys
 
