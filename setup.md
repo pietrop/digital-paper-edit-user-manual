@@ -18,8 +18,6 @@ This setup is common to all Speech To Text options
 
 ![add the API credentials.](.gitbook/assets/screen-shot-2020-02-05-at-4.25.24-pm.png)
 
-
-
 1. Choose the STT provider and add the credentials.
 2. Click `save`
 
