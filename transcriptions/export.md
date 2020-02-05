@@ -1,6 +1,6 @@
 # Export options
 
-Click on the export icon on the top right to see a list of export options
+After having [created a transcription ](create-a-new-transcription.md)and \(optional\) [corrected the text](correct-the-text-of-a-transcription.md) you can click on the export icon on the top right to see a list of export options
 
 ![export icon ](../.gitbook/assets/screen-shot-2020-02-05-at-5.19.31-pm.png)
 
