@@ -35,3 +35,7 @@
 * [Transcription export selections](digital-paper-edit-adobe-panel/transcription-export-selections.md)
 * [Paper-edit to sequence](digital-paper-edit-adobe-panel/paper-edit-to-sequence.md)
 
+## Troubleshooting
+
+* [Reporting issues](troubleshooting/reporting-issues.md)
+
