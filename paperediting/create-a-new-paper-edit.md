@@ -13,7 +13,7 @@ If first time using the tool go ahead and [do the initial setup first](../setup.
 In this paper edit workspace, you have 3 columns.
 
 1. list of transcripts for the project
-2. the current selected transcript
+2. The current selected transcript view, where you can search and filter by custom tags
 3. A "programme script work pad" where you can bring in selections from the transcripts, and auto generate a preview, before exporting.
 
 ![Paper edit workspace](../.gitbook/assets/screen-shot-2020-02-05-at-5.41.11-pm.png)
