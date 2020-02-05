@@ -16,6 +16,8 @@
   * [Pocketsphinx](speech-to-text/pocketsphinx.md)
 * [Projects](projects-1/README.md)
   * [Create a new project](projects-1/create-a-new-project.md)
+  * [Edit a project](projects-1/edit-a-project.md)
+  * [Delete a project](projects-1/delete-a-project.md)
 * [Transcriptions](transcriptions/README.md)
   * [Create a new transcription](transcriptions/create-a-new-transcription.md)
   * [Export](transcriptions/export.md)
