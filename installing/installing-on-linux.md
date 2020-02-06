@@ -6,6 +6,7 @@
 Download the latest stable release from the [releases page](https://github.com/pietrop/digital-paper-edit-electron/releases). Check out the release description to see what has changed from the previous version.
 {% endhint %}
 
+* Click a**`ssets`** on the version you would like \(the newest one is at the top\)
 * For linux download the `.AppImage` file
 
 ## Option 1
