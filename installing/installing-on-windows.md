@@ -2,7 +2,9 @@
 
 ## Download
 
-Download the latest stable release from the [releases page](https://github.com/OpenNewsLabs/autoEdit_2/releases). Check out the release description to see what has changed from the previous version.
+{% hint style="info" %}
+Download the latest stable release from the [releases page](https://github.com/pietrop/digital-paper-edit-electron/releases). Check out the release description to see what has changed from the previous version.
+{% endhint %}
 
 * download the `zip` file
 * Install it on your PC
