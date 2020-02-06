@@ -13,8 +13,10 @@ Download the latest stable release from the [releases page](https://github.com/p
 Check out the release description to see what has changed from the previous version.
 {% endhint %}
 
-Click **`Assets`** on the version you would like \(the newest one is at the top\)  
-  
+Click **`Assets`** on the version you would like \(the newest one is at the top\)
+
+![Click on assets](../.gitbook/assets/github_dmg.png)
+
 See appropriate subsections for your operating system
 
 * [Mac OSX](installing-on-mac-osx.md)

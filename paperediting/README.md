@@ -18,3 +18,13 @@ In  project clicking the paper edits tab will take you to the paper edit view.
 
 ![Paper eits](../.gitbook/assets/screen-shot-2020-02-05-at-5.32.45-pm.png)
 
+## Overview
+
+Once you have a transcript you can create a program script \(paper edit\). Int he program script / paper edit view you can:
+
+* access project's transcripts
+* highlight and annotate
+* create custom labels
+* search and filter \( at the moment with a transcript but in the future across transcripts in a project\)
+* Create and preview a program script from transcript's text selections
+
