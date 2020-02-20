@@ -12,7 +12,7 @@ Download latest release and Install using a third party package manager - Anasta
 
 ## Download the `.zxp` file from the autoEdit releases
 
-1. Follow the link to download the latest [releases](https://github.com/pietrop/digital-paper-edit-electron/releases) 
+1. Follow the link to download the latest [releases](https://github.com/pietrop/digital-paper-edit-cep/releases) 
 2. Choose the latest
 3. And under `assets` download the `zxp` file `com.dpe.it.zxp`
 
