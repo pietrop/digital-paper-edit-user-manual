@@ -1,9 +1,5 @@
 # Paper-edit to sequence
 
-{% hint style="info" %}
-Work in progress
-{% endhint %}
-
 To export a programme script/paper edit into a premiere sequence
 
 1. click export 'Premiere Sequence' 
