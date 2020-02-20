@@ -2,7 +2,7 @@
 
 Here are some instructions for using a desktop version of the app.
 
-You can download the pre release from [this link](https://github.com/bbc/digital-paper-edit-electron/releases).
+You can download the pre release from [this link](https://github.com/pietrop/digital-paper-edit-electron/releases).
 
 
 
