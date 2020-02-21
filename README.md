@@ -6,3 +6,7 @@ If this is your first time using the tool, [download the latest release](https:/
 
 If you don't have experience editing audio/video interviews or would like a refresher on the most effective process, you might want to check out this other gitbook ["How to tell compelling stories out of video interviews"](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/).
 
+Or checkout the these [overview slides](https://docs.google.com/presentation/d/1ns0HZNnhTb3pI7S_634Shk-4ThgPS68jiylFWkaldkk/edit?usp=sharing).
+
+
+
