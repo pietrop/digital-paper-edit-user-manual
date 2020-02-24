@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-If first time using the tool go ahead and [do the initial setup first](../setup.md). Then [add some videos or audio files to transcribe](../transcriptions/create-a-new-transcription.md), these can then be used in the paper-edit
+If first time using the tool go ahead and [do the initial setup first](../setup.md). Then [add some videos or audio files to transcribe](../transcriptions/create-a-new-transcription/), these can then be used in the paper-edit
 {% endhint %}
 
 ## What is a paper-edit?

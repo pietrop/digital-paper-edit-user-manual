@@ -1,7 +1,7 @@
 # 1. Create a new paper edit
 
 {% hint style="info" %}
-If first time using the tool go ahead and [do the initial setup first](../setup.md). Then [add some videos or audio files to transcribe](../transcriptions/create-a-new-transcription.md), these can then be used in the paper-edit
+If first time using the tool go ahead and [do the initial setup first](../setup.md). Then [add some videos or audio files to transcribe](../transcriptions/create-a-new-transcription/), these can then be used in the paper-edit
 {% endhint %}
 
 ## 1. Create a new paper-edit <a id="adding-a-videoaudio"></a>

@@ -1,6 +1,6 @@
 # Correct the text of a transcription
 
-After having [created a transcription,](create-a-new-transcription.md) click on the transcription to view and edit the text.
+After having [created a transcription,](create-a-new-transcription/) click on the transcription to view and edit the text.
 
 {% hint style="warning" %}
 Unfortunately in the current version there is a performance issue when working with video that are over one hour. 
