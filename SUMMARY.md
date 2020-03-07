@@ -23,6 +23,7 @@
     * [Working with MXF files](transcriptions/create-a-new-transcription/working-with-mxf-files.md)
   * [Correct the text of a transcription](transcriptions/correct-the-text-of-a-transcription.md)
   * [Export options](transcriptions/export.md)
+  * [Advanced - working with existing transcripts](transcriptions/advanced-working-with-existing-transcripts.md)
 * [Paperediting](paperediting/README.md)
   * [1. Create a new paper edit](paperediting/create-a-new-paper-edit.md)
   * [Highlight Transcriptions](paperediting/highlight-transcriptions/README.md)
