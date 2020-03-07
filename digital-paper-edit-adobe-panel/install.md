@@ -5,7 +5,7 @@ Work in progress. It is still experimental, and at the moment it's recommended t
 {% endhint %}
 
 {% hint style="info" %}
-Note that the desktop app and the Premiere Pro Panel share the same database on the user's machine, so you could do the paper-editing on the desktop app, then close it when done, and open premiere and the adobe panel for exporting the programme script into a sequence. [🤞](https://emojipedia.org/crossed-fingers/)[🧪](https://emojipedia.org/test-tube/)
+Advanced/Experimental - Note that the desktop app and the Premiere Pro Panel share the same database on the user's machine, so you could do the paper-editing on the desktop app, then close it when done, and open premiere and the adobe panel for exporting the programme script into a sequence. [🤞](https://emojipedia.org/crossed-fingers/)[🧪](https://emojipedia.org/test-tube/)
 {% endhint %}
 
 {% hint style="warning" %}
