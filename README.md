@@ -6,6 +6,8 @@ description: >-
 
 # Introduction
 
+
+
 {% hint style="info" %}
 If this is your first time using this app, see the [installation](installing/) and [setup instructions](setup.md) to [setup the STT API system first](speech-to-text/), and [download the latest release](installing/).
 {% endhint %}
@@ -14,7 +16,7 @@ If this is your first time using this app, see the [installation](installing/) a
 
 If you don't have experience editing audio/video interviews or would like a refresher on the most effective process, you might want to check out this other gitbook ["How to tell compelling stories out of video interviews"](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/).
 
-![Workflow](.gitbook/assets/workflow.png)
+![Digital Paper Edit Workflow](.gitbook/assets/workflow.png)
 
 Or checkout the these [overview slides](https://docs.google.com/presentation/d/1ns0HZNnhTb3pI7S_634Shk-4ThgPS68jiylFWkaldkk/edit?usp=sharing).
 
