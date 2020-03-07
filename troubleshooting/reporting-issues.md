@@ -1,3 +1,7 @@
+---
+description: Troubleshooting desktop app
+---
+
 # Reporting issues
 
 1.Click on `view` --&gt; `toggle developers tools`  \(or `⌥` + `⌘` +`i` \)  
