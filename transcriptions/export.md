@@ -9,9 +9,11 @@ After having [created a transcription ](create-a-new-transcription/)and \(option
 #### Main export options
 
 * text file
-* Text file with speakers and timecodes
+* Text file with speakers and timecodes**\***
 * Ms Word
 * Srt - Captions
+
+**\***Text file with speakers and timecodes is in a format that is compatible with [atlas ti](https://atlasti.com/) if you need to import the transcript there for further analyses.
 
 #### Advanced options 
 
