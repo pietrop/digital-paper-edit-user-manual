@@ -9,7 +9,7 @@ description: >-
 
 At the moment the main workflow assumes you don't have transcriptions, and that you are using the app to generate those as well as to correct them if needed.
 
-However there is a workaround to add existing transcriptions if you have those. Eg when working off scripted material that is read out loud by a presenter or etc..
+However there is an advanced workaround to add existing transcriptions if you have those. Eg when working off scripted material that is read out loud by a presenter or etc..
 
 1. Use [DeepSpeech](../speech-to-text/mozilla-deepspeech.md) or [pocketsphinx](../speech-to-text/pocketsphinx.md) as [STT option ](../setup.md)
 2. [Create a transcription](create-a-new-transcription/) with your media 
@@ -23,9 +23,9 @@ For this workaround to succeed you'd need to paste the text without speakers or 
 \(Possibly from a plain text file with not a lot of formatting\)
 {% endhint %}
 
-6. you should then add speaker labels, and review the paragraph breaks [🤞](https://emojipedia.org/crossed-fingers/)
+6. You should then add speaker labels, and review the paragraph breaks [🤞](https://emojipedia.org/crossed-fingers/)
 
 {% hint style="info" %}
-Note that If there's enough of a need, we could consider adding a feature to do this with fewer steps. 
+Note that If there's enough of a need, and use case, we could consider adding a feature to do this with fewer steps. 
 {% endhint %}
 
