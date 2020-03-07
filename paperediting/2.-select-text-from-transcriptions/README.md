@@ -10,9 +10,11 @@ There are 3 way to select from a transcript and copy it across to the programme 
 
 1. select text in transcript
 2. click "+ Selection" button
-3. The text selection will be added above the orange insert point  
+3. The text selection will be added above the orange insert point 
 
 ![Select text](../../.gitbook/assets/select-text.gif)
+
+[See here for two ways for moving the orange insert point](move-insert-point.md).
 
 ## 2. "Copy / paste"
 
