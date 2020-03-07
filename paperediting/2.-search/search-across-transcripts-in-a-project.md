@@ -1,8 +1,8 @@
 # Search across transcripts in a project
 
-Click on the search bar above the individual transcripts to access this feature
+Click on the search button above the list individual transcripts to access this feature.
 
-![Click on the search bar above the individual transcripts ](../../.gitbook/assets/search-transcripts-across-projects-search-bar.png)
+![Search within one transcript](../../.gitbook/assets/search-within-one-transcript.png)
 
 You can then choose   
 1. which transcripts you'd want to include in the search   
@@ -10,7 +10,7 @@ You can then choose
 3. filter by speaker  
 4. filter by labels 
 
-![Search and filter across transcripts in a project](../../.gitbook/assets/screen-shot-2020-03-03-at-4.17.07-pm.png)
+![Search across transcript](../../.gitbook/assets/advanced-search.png)
 
-To close this search view click on the blue cross.
+To close this search view click on the left arrow on the top left.
 

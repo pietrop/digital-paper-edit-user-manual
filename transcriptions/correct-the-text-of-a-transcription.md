@@ -3,7 +3,11 @@
 After having [created a transcription,](create-a-new-transcription/) click on the transcription to view and edit the text.
 
 {% hint style="warning" %}
-Unfortunately in the current version there is a performance issue when working with video that are over one hour. 
+Unfortunately in the current version there is a performance issue when working with video that are over one hour. [We are looking into it.](https://github.com/bbc/react-transcript-editor/issues/150)
+{% endhint %}
+
+{% hint style="warning" %}
+Note that as of this version, the transcript editor, does not auto save make sure to click the save button often as you change your work \(just in case\). As well as when you are done correcting the text.
 {% endhint %}
 
 ![](../.gitbook/assets/screen-shot-2020-02-05-at-5.10.46-pm.png)

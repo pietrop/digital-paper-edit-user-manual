@@ -1,7 +1,7 @@
 # Create a new transcription
 
 {% hint style="info" %}
-Make sure you have gone through the [initial setup](../../setup.md). Chose a Speech To Text engine to use for your transcription. And added API credentials where appropriate.
+Make sure you have gone through the [initial setup](../../setup.md). Chose a [Speech To Text engine ](../../speech-to-text/)to use for your transcription. And added API credentials where appropriate as part of the[ initial setup](../../setup.md).
 {% endhint %}
 
 After[ creating a project](../../projects-1/create-a-new-project.md) click on `New Transcript`
