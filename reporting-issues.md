@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting desktop app
+description: Reporting issues on the desktop app
 ---
 
 # Reporting issues
@@ -8,7 +8,7 @@ description: Troubleshooting desktop app
   
 2.In the new panel, click on `console`, if you are not already on it
 
-![click on console to view errors](../.gitbook/assets/screen-shot-2020-02-05-at-4.51.41-pm.png)
+![click on console to view errors](.gitbook/assets/screen-shot-2020-02-05-at-4.51.41-pm.png)
 
 if you see any red error message, feel free to take a screenshot. 
 

@@ -44,10 +44,7 @@
   * [Adobe Premiere](opening-edl-in-video-editing-software/adobe-premiere.md)
   * [Davinci Resolve - 15](opening-edl-in-video-editing-software/davinci-resolve-15.md)
   * [Final cut pro X](opening-edl-in-video-editing-software/final-cut-pro-x.md)
-
-## Troubleshooting
-
-* [Reporting issues](troubleshooting/reporting-issues.md)
+* [Reporting issues](reporting-issues.md)
 
 ## Digital Paper Edit - Adobe Panel
 
