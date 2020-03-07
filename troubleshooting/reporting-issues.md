@@ -2,7 +2,7 @@
 
 1.Click on `view` --&gt; `toggle developers tools`  \(or `⌥` + `⌘` +`i` \)  
   
-2.In the new panel, click on console, if you are not already on it
+2.In the new panel, click on `console`, if you are not already on it
 
 ![click on console to view errors](../.gitbook/assets/screen-shot-2020-02-05-at-4.51.41-pm.png)
 
