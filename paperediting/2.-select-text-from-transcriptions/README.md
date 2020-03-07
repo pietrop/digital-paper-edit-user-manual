@@ -12,7 +12,7 @@ There are 3 way to select from a transcript and copy it across to the programme 
 2. click "+ Selection" button
 3. The text selection will be added above the orange insert point  
 
-![Select text](../.gitbook/assets/select-text.gif)
+![Select text](../../.gitbook/assets/select-text.gif)
 
 ## 2. "Copy / paste"
 
