@@ -1,7 +1,7 @@
 # Transcription export selections
 
 {% hint style="info" %}
-Work in progress
+Work in progress - Not implemented
 {% endhint %}
 
 
