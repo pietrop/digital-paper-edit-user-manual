@@ -8,7 +8,7 @@ see below for [export options](./#export-options)
 
 ## Export options
 
-#### EDL - Video
+#### EDL - Video Sequence
 
 Export en EDL, edit decision list, to import the programme script as a sequence in video editing software - Avid, Premiere, Davinci Resolve, for FCPX choose FCPX XML.
 
@@ -16,7 +16,7 @@ Export en EDL, edit decision list, to import the programme script as a sequence 
 [Check out this section on how to open an EDL](opening-edl-in-video-editing-software/) in a video editing software of choice to get a video sequence of your selections.
 {% endhint %}
 
-#### ADL - Audio
+#### ADL - Audio Sequence
 
 Export an ADL, audio decision list, to import the programme script as a sequence in audio editing software such as SADiE.
 
@@ -36,11 +36,11 @@ Export the programme script as a word document
 
 Export the programme script as a word document with timecode and file reference information for each transcript's text selection.
 
-#### Audio or Video **- Experimental** [🧪](https://emojipedia.org/test-tube/)
+#### Audio or Video file**- Experimental** [🧪](https://emojipedia.org/test-tube/)
 
 Experimental feature, that allows you to export an audio or video preview of your paper edit's programme script. [See here for more details.](export-a-video-or-audio-preview.md)  
   
-You can also [export audio as video with an animated  waveform](export-a-video-or-audio-preview.md#export-audio-as-video-with-animated-waveform).
+You can also [export audio as video file with an animated  waveform](export-a-video-or-audio-preview.md#export-audio-as-video-with-animated-waveform).
 
 #### Json
 
