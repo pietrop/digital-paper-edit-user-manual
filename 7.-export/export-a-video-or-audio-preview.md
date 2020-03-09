@@ -1,4 +1,4 @@
-# Export a video or audio preview
+# Export an video or audio preview
 
 You can export a video or audio preview of your paper edit's programme script. 
 
