@@ -1,7 +1,7 @@
 # Transcription to source monitor
 
 {% hint style="info" %}
-Work in progress
+Work in progress - Not implemented
 {% endhint %}
 
 

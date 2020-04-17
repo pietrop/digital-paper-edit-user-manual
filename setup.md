@@ -1,6 +1,6 @@
 # Initial Setup
 
-This setup is common to all Speech To Text options
+This setup is common to all [Speech To Text options](speech-to-text/)
 
 1.On a mac in the top nav bar click on `Speech to text Settings`→ `edit speech to text configuration`
 

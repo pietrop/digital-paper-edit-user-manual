@@ -14,7 +14,7 @@ Follow along the [instructions in the initial setup](../setup.md)
 unfortunately as of this version there is no progress indication.
 {% endhint %}
 
-Once it's down downloading it will notify you with a message
+Once it's done downloading it will notify you with a message
 
 > You have downloaded the Deepspeech STT model \(1.8gb\) and are ready to go
 
