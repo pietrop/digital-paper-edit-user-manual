@@ -14,11 +14,31 @@ Eg add the word doc to google docs, and the audio or video file to [dropbox to m
 
 ### Export audio as video with animated waveform
 
-You can also export audio as video with an animated  waveform.
+You can also export audio as video with an animated  waveform.   
+  
+  
+  
+Here's some example of the available waveforms.
 
-{% file src="../.gitbook/assets/p2p-white.mp4" caption="test" %}
+#### Cline
 
-![Example export audio as video with animated waveform](../.gitbook/assets/animated-waveform.gif)
+![Cline](../.gitbook/assets/cline.gif)
+
+#### Line
+
+![line](../.gitbook/assets/line.gif)
+
+#### p2p
+
+![p2p](../.gitbook/assets/p2p.gif)
+
+#### Point
+
+![](../.gitbook/assets/point.gif)
+
+
+
+
 
 #### 
 
