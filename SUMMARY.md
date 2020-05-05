@@ -44,6 +44,7 @@
     * [Davinci Resolve - 15](7.-export/opening-edl-in-video-editing-software/davinci-resolve-15.md)
     * [Final cut pro X](7.-export/opening-edl-in-video-editing-software/final-cut-pro-x.md)
   * [Export an video or audio preview](7.-export/export-a-video-or-audio-preview.md)
+  * [Export animated waveform](7.-export/export-animated-waveform.md)
 * [Reporting issues](reporting-issues.md)
 
 ## Digital Paper Edit - Adobe Panel
