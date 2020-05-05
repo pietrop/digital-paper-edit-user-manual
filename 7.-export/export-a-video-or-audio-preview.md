@@ -32,7 +32,7 @@ Here's some example of the available waveforms.
 
 ![p2p](../.gitbook/assets/p2p.gif)
 
-#### Point
+#### Point 
 
 ![](../.gitbook/assets/point.gif)
 
