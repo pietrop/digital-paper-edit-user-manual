@@ -10,10 +10,10 @@ After[ creating a project](../../projects-1/create-a-new-project.md) click on `N
 **You don't need to convert your media before adding it to the app.**
 
 _**How does this work?**_   
- The app will read the metadata of the **original rushes** \(no matter how big the file\) and convert it to an audio and video preview.   
- The **audio** is used to send to the Speech To Text Engine to get a transcription.   
- The **video** is a lower resolution proxy used by the app to generate previews.   
- When exporting a **sequence** \(eg a paper-edit/programme script as EDL, XML etc... for a video editing software\) the app will use the original source metadata to reconnect to the high resolution rushes.
+The app will read the metadata of the **original rushes** \(no matter how big the file\) and convert it to an audio and video preview.   
+The **audio** is used to send to the Speech To Text Engine to get a transcription.   
+The **video** is a lower resolution proxy used by the app to generate previews.   
+When exporting a **sequence** \(eg a paper-edit/programme script as EDL, XML etc... for a video editing software\) the app will use the original source metadata to reconnect to the high resolution rushes.
 {% endhint %}
 
 ![](../../.gitbook/assets/screen-shot-2020-02-05-at-5.06.29-pm.png)
