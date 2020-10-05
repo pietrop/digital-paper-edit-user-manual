@@ -5,7 +5,7 @@ There are three options for speech to text APIs that you can use with this syste
 Check them out individually for extra setup instruction.
 
 {% hint style="danger" %}
-Unfortunately Speechmatics is no longer an option as they discontinuing their web portal \(meaning the access to STT with API key will no longer be supported\) from 30th of Sept 2020. See their [deprecation notice for more details](https://www.speechmatics.com/transcription-web-portal-deprecation-notice).
+Unfortunately **Speechmatics** is no longer an option as they discontinuing their web portal \(meaning the access to STT with API key will no longer be supported\) from 30th of Sept 2020. See their [deprecation notice for more details](https://www.speechmatics.com/transcription-web-portal-deprecation-notice).
 {% endhint %}
 
 1. ~~~~[~~Speechmatics~~](speechmatics.md)~~~~
