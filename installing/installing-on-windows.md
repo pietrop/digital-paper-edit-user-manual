@@ -7,7 +7,7 @@ Download the latest stable release from the [releases page](https://github.com/p
 {% endhint %}
 
 * Click a**`ssets`** on the version you would like \(the newest one is at the top\)
-* download the `zip` file
+* download the `exe` file
 * Install it on your PC
 
 {% hint style="warning" %}
