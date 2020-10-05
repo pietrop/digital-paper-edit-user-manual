@@ -4,7 +4,11 @@ There are three options for speech to text APIs that you can use with this syste
 
 Check them out individually for extra setup instruction.
 
-1. [Speechmatics](speechmatics.md)
+{% hint style="danger" %}
+Unfortunately Speechmatics is no longer an option as they discontinuing their web portal \(meaning the access to STT with API key will no longer be supported\) from 30th of Sept 2020. See their [deprecation notice for more details](https://www.speechmatics.com/transcription-web-portal-deprecation-notice).
+{% endhint %}
+
+1. ~~~~[~~Speechmatics~~](speechmatics.md)~~~~
 2. [AssemblyAI](assemblyai.md)
 3. [Mozilla Deep Speech](mozilla-deepspeech.md) \(Open Source, need to download 1.8gig for the English language model\)
 4. [Pocketsphinx](pocketsphinx.md) \(Open Source, integrate inside the app, no extra setup needed\)
@@ -19,13 +23,13 @@ Check them out individually for extra setup instruction.
 * Generally very accurate \(my opinion, judge for yourself\)
 * For now only support for English but more coming soon
 
-### Speechmatics  <a id="ibm-watson-stt-service"></a>
+### ~~Speechmatics~~  <a id="ibm-watson-stt-service"></a>
 
-* 1 hour free credit with new account 
-* Easy to setup credentials 
-* Generally pretty accurate \(my opinion, judge for yourself\)
-* [28 languages, see full list](https://www.speechmatics.com/language-support/) 
-* Including support for "accent agnostic global english".
+* ~~1 hour free credit with new account~~ 
+* ~~Easy to setup credentials~~ 
+* ~~Generally pretty accurate \(my opinion, judge for yourself\)~~
+* ~~~~[~~28 languages, see full list~~](https://www.speechmatics.com/language-support/) ~~~~
+* ~~Including support for "accent agnostic global english".~~
 
 ### Mozilla Deepspeech  <a id="gentle-open-source-stt"></a>
 
