@@ -18,3 +18,5 @@ This option can be useful if you imported in autoEdit footage directly from a ca
 
 ![Align timecode in premiere checkbox](../../.gitbook/assets/assets_-lketzisqibnpyxffmzt_-lkeuvc84akkw9lpskbg_-lkeuwctrdyujtkwb1qh_align_timecode.png)
 
+
+
